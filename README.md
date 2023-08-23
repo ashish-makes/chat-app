@@ -16,7 +16,7 @@ Welcome to the Simple Chat Application, a straightforward web-based platform des
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/simple-chat-app.git
+   git clone https://github.com/ashish-makes/chat-app
 
 2. Navigate to the repository directory:
    ```bash
